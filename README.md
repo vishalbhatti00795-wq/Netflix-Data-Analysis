@@ -1,4 +1,4 @@
-# Netflix Data Analysis & Power BI Dashboard
+# Netflix Content Analysis & Power BI Dashboard
 
 An end-to-end **Netflix Data Analysis project** using **Python, Pandas, NumPy, Matplotlib, Seaborn, and Power BI** to explore Netflix's content catalog, uncover trends, and transform raw data into meaningful business insights.
 
